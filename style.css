@@ -1,0 +1,29 @@
+.col-8 img {
+    width: 100%;
+}
+
+.col-12 img {
+    width: 50px;
+    border-radius: 50px;
+}
+
+.bi.bi-star-fill {
+    font-size: 18px;
+    color: rgb(255, 255, 0);
+}
+
+#jumbotrons {
+    height: 500px;
+    max-height: 500px;
+}
+
+.p-5.text-center.bg-body-tertiary.rounded-3 {
+    background-image: url(https://e0.pxfuel.com/wallpapers/568/751/desktop-wallpaper-airline-airliner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav img {
+    width: 40px;
+}
